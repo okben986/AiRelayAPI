@@ -1,6 +1,6 @@
 # AI API中转站推荐｜国内高速、稳定模型中转体验
 
-小白如何使用中转站API： [Cherry Studio](https://docs.cherry-ai.com/)
+小白如何使用中转站API: [Cherry Studio](https://docs.cherry-ai.com/)
 
 中转站测评：[禾维 AI](https://hvoy.ai/)
 
@@ -35,7 +35,7 @@ GPT 5.4是人民币¥1(进)6(出)/一百万Token. 价格是不便宜.
 
 新用户送一点钱,每天签到还能送点钱, 值得试试. 
 
-
+[官网地址](https://yunwu.ai/register?aff=GVjS)
 
 
 ### [PackyCode](https://www.packyapi.com/register?aff=7NGy)
@@ -54,3 +54,39 @@ Gemini现在好多渠道都用不了,或者响应速度巨慢, 用下来只有Pa
 他们对于国内的模型支持比较全, 支持阿里百炼的api, MiniMax(官方价格的5折),GLM(九折).
 
 新人注册送1元, 可以先试试再决定购买. 最少充值50块, 支持开发票.
+
+[官网地址](https://www.packyapi.com/register?aff=7NGy)
+
+
+### [RightCode](https://www.right.codes/register?aff=f875c7bb)
+就是为编程准备的, 只支持Claude, Gemini和GPT的接口.
+
+~价格很便宜, Kiro逆向的接口大概是官网的0.4折. Opus 4.6 反代的价格是人民币¥1.5(进)7.5(出)/一百万Token, Sonnet 4.6的价格是人民币¥0.9(进)4.5(出)/一百万Token ~ (2026/3/22更新, 但是反代渠道最近不可用)
+
+值得推荐的渠道是 /claude 渠道, Sonnet4.6 价格是人民币¥4.5(进)22.5(出)/一百万Token, Opus4.6 价格是人民币¥7.5(进)37.5(出)/一百万Token.
+
+
+GPT 现在比较划算一点, GPT5.4 是人民币¥1.25(进)7.5(出)/一百万Token
+
+Gemini系列的接口也很便宜, 大概是官网价格的1折.
+
+最少可以充1元 , 获得5元的额度, 先试试效果.
+
+文档非常清晰, 接口响应速度比较快.
+
+[官网地址](https://www.right.codes/register?aff=f875c7bb)
+
+
+### [Poixe AI](https://poixe.com/i/wqbwup)
+
+支持 GPT,Claude,Gemini,DeepSeek,Doubao,Qwen ,Grok 这些模型.
+
+不同级别会员价格不一样,充一点钱就能Vip1,能八折.
+
+Sonnet4.6 的价格是人民币 16.8/84 一百万 Token, Opus4.6 价格是人民币 28/140 一百万 Token. GPT5.4 价格是人民币 14/84 一百万 Token.
+
+价格是不便宜. 我试了下接口, 接口质量是相当好, 完全没掺水, 速度也快. 网站上提供一个免费的接口,譬如 GPT4o这种. 支持开发票.
+
+总体来说,这个适合企业客户, 质量好, 价格也贵.
+
+[官网地址](https://poixe.com/i/wqbwup)
