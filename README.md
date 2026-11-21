@@ -16,28 +16,6 @@
 
 ## 推荐的
 
-
-### [云雾AI](https://yunwu.ai/register?aff=GVjS)
-这是一个老牌的中转站。
-
-优点是支持的模型很多，Claude、GPT、Gemini、DeepSeek 这些常用的，Qwen、Doubao、Midjourney、Kling、Minimax、文心一言都支持。
-上新模型也比较快，更多的是面向企业的服务，稳定性挺好，还可以开发票。
-
-有美国和国内的高防域名。
-
-Claude 接口方面，逆向渠道的质量一般。
-
-可以使用 Claude Code 专用组，Opus 4.6 的价格是人民币 ¥6(进)30(出)/一百万 Token。我自己测试了下，感觉没掺水。
-
-GPT 5.4 是人民币 ¥1(进)6(出)/一百万 Token，价格不算便宜。
-
-追求稳定的企业客户可以考虑，稳定性还行。
-
-新用户送一点余额，每天签到还能领一些，值得试试。
-
-[官网地址](https://yunwu.ai/register?aff=GVjS)
-
-
 ### [PackyCode](https://www.packyapi.com/register?aff=7NGy)
 PackyCode 大约是 24 年底 25 年初开始活跃，是国内比较早针对 Claude Code 进行优化的供应商。
 
